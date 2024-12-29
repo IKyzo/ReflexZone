@@ -103,6 +103,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4156ba78fd40e34c9532f16ee883060, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animator: {fileID: 0}
   playerHealthBar: {fileID: 0}
   playerHealth: 100
   postureSystem: {fileID: 2389007307294096963}
@@ -110,6 +111,20 @@ MonoBehaviour:
   weaponLayer:
     serializedVersion: 2
     m_Bits: 64
+  particleSystem: {fileID: 0}
+  particleLeftPosition: {fileID: 0}
+  particleRightPosition: {fileID: 0}
+  slashSound: {fileID: 0}
+  parrySound: {fileID: 0}
+  hitSound: {fileID: 0}
+  deathAnimator: {fileID: 0}
+  playerCollider: {fileID: 0}
+  playerParticleSystem: {fileID: 0}
+  weaponsSystem: {fileID: 0}
+  scoreText: {fileID: 0}
+  isDeflectSuccessful: 0
+  playerState: 1
+  inputState: 1
 --- !u!70 &6036289128136758333
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -224,9 +239,15 @@ MonoBehaviour:
   increaseOnDeflect: 5
   increaseOnMiss: 15
   recoveryRate: 5
+  recoveryDelay: 1.5
   postureBarL: {fileID: 0}
   postureBarR: {fileID: 0}
   isKeyBeingPressed: 0
   postureColor1: {r: 1, g: 0.8932487, b: 0, a: 1}
   postureColor2: {r: 1, g: 0.47155797, b: 0, a: 1}
   postureColor3: {r: 0.9924528, g: 0.2879986, b: 0.13295123, a: 1}
+  postureBroken: 0
+  postureAnimator: {fileID: 0}
+  resetControl: 1
+  player: {fileID: 0}
+  unbreakablePosture: 0

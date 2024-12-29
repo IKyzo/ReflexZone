@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 public class Weapon : MonoBehaviour
@@ -6,35 +5,44 @@ public class Weapon : MonoBehaviour
     [SerializeField] private Transform shinobiTargetTransform;
     [SerializeField] private float weaponDamage;
     public KeyCode deflectKey = KeyCode.F;
-    [SerializeField] private float speed = 5f;  // Speed of the weapon
-    private Vector3 targetPosition;  // The target position (player's position)
+    public float speed = 5f;  // Speed of the weapon
+    private Vector3 moveDirection;  // The direction the weapon will move
+    [SerializeField] private GameObject indicator;
+    [SerializeField] private bool weaponState = true;
 
     private void OnEnable()
     {
-        // Set the target position to the player's position
-        targetPosition = shinobiTargetTransform.position;
+        // Set the initial move direction towards the player's position
+        if (shinobiTargetTransform != null)
+        {
+            Vector3 targetPosition = shinobiTargetTransform.position;
+            moveDirection = (targetPosition - transform.position).normalized; // Calculate and normalize the direction
+        }
+        else
+        {
+            // If no target is assigned, default to a forward direction
+            moveDirection = Vector3.up;
+        }
+
+        int randomValue = Random.Range(15, 16); //30 max?
+        speed = randomValue;
+
+        // Rotate the weapon to face the initial direction
+        if (moveDirection != Vector3.zero)
+        {
+            Quaternion targetRotation = Quaternion.LookRotation(Vector3.forward, moveDirection);
+            targetRotation *= Quaternion.Euler(0, 0, 180); // Adjust orientation if needed
+            transform.rotation = targetRotation;
+        }
     }
 
     private void Update()
     {
-        // Move the weapon towards the target position using MoveTowards
-        transform.position = Vector3.MoveTowards(transform.position, targetPosition, speed * Time.deltaTime);
-
-        // Get the direction to the target position
-        Vector3 directionToTarget = targetPosition - transform.position;
-
-        // If the direction is not zero (to avoid errors), rotate towards the target
-        if (directionToTarget != Vector3.zero)
-        {
-            // Calculate the rotation we want to apply
-            Quaternion targetRotation = Quaternion.LookRotation(Vector3.forward, directionToTarget);
-
-            // Apply a 180-degree offset to correct the orientation (if needed)
-            targetRotation *= Quaternion.Euler(0, 0, 180);
-
-            // Set the weapon's rotation directly towards the target
-            transform.rotation = targetRotation;
+        // Move the weapon in the calculated direction
+        if(weaponState){
+            transform.position += moveDirection * speed * Time.deltaTime;    
         }
+        
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -42,7 +50,18 @@ public class Weapon : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             var script = other.GetComponent<PlayerSystem>();
-            script.playerDamaged(weaponDamage);
+            if (script != null && script.playerState)
+            {
+                script.playerDamaged(weaponDamage);
+                Destroy(this.gameObject);
+                
+            }
+            
+        }
+
+        if (other.CompareTag("Ground"))
+        {
+            weaponState = false;
         }
     }
 }
