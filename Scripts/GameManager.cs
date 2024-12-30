@@ -57,6 +57,18 @@ public class GameManager : MonoBehaviour
 
     [SerializeField] private Animator scoreAnimator;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    
+    void Awake()
+    {
+#if UNITY_EDITOR
+        Application.targetFrameRate = 30; // Limit frame rate in the Editor
+#else
+    Application.targetFrameRate = -1; // No limit for builds
+#endif
+    }
+
+    
+    
     void Start()
     {
         StartCoroutine(Intro());
