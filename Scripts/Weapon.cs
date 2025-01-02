@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class Weapon : MonoBehaviour
@@ -62,6 +63,13 @@ public class Weapon : MonoBehaviour
         if (other.CompareTag("Ground"))
         {
             weaponState = false;
+            StartCoroutine(Disappear());
         }
+    }
+
+    private IEnumerator Disappear()
+    {
+        yield return new WaitForSeconds(2f);
+        Destroy(this.gameObject);
     }
 }

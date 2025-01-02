@@ -340,11 +340,124 @@ public class GameManager : MonoBehaviour
         
 
     }
+
+
+
+
+    public IEnumerator ShowInstinct()
+    {
+        float timeElapsed = 0f;
+
+        // Get the current color and set the starting alpha to 0
+        Color instinctColor = instinctSprites[0].color;
+        Color instinctColor2 = instinctSprites[1].color; 
+        Color instinctColorx = instinctSprites[0].color;
+        Color instinctColor2x = instinctSprites[1].color; 
+        
+        
+        instinctColor.a = 0f;  // Start with alpha 0
+        instinctColor2.a = 0f; 
+        instinctColorx.a = 0f;  // Start with alpha 0
+        instinctColor2x.a = 0f; 
         
         
         
         
+        instinctSprites[0].color = instinctColor;
+        instinctSprites[1].color = instinctColor2;
+        instinctSprites[2].color = instinctColorx;
+        instinctSprites[3].color = instinctColor2x;
         
+        // Lerp the alpha from 0 to 1 over time
+        while (timeElapsed < instinctDuration)
+        {
+            timeElapsed += Time.deltaTime;
+            float alpha = Mathf.Lerp(0f, 1f, timeElapsed / instinctDuration);
+            float alpha2 = Mathf.Lerp(0f, 1f, timeElapsed / instinctDuration);
+            float alphax = Mathf.Lerp(0f, 0.25f, timeElapsed / instinctDuration);
+            float alpha2x = Mathf.Lerp(0f, 0.25f, timeElapsed / instinctDuration);
+            
+            
+            instinctColor.a = alpha;
+            instinctColor2.a = alpha2;
+            instinctColorx.a = alphax;
+            instinctColor2x.a = alpha2x;
+          
+            instinctSprites[0].color = instinctColor;
+            instinctSprites[1].color = instinctColor2;
+            instinctSprites[2].color = instinctColorx;
+            instinctSprites[3].color = instinctColor2x;
+            
+            
+            yield return null;
+        }
+
+        instinctColor.a = 1f;
+        instinctColor2.a = 0.25f;
+        instinctSprites[0].color = instinctColor;
+        instinctSprites[1].color = instinctColor2;
+        instinctSprites[2].color = instinctColor;
+        instinctSprites[3].color = instinctColor2;
+
+    }
+
+
+    public IEnumerator HideInstinct()
+    {
+        float timeElapsed = 0f;
+
+        // Get the current color and set the starting alpha to 0
+        Color instinctColor = instinctSprites[0].color;
+        Color instinctColor2 = instinctSprites[1].color; 
+        Color instinctColorx = instinctSprites[0].color;
+        Color instinctColor2x = instinctSprites[1].color; 
+        
+        
+        instinctColor.a = 1f;  // Start with alpha 0
+        instinctColor2.a = 1f; 
+        instinctColorx.a = 0.25f;  // Start with alpha 0
+        instinctColor2x.a = 0.25f; 
+        
+        
+        
+        
+        instinctSprites[0].color = instinctColor;
+        instinctSprites[1].color = instinctColor2;
+        instinctSprites[2].color = instinctColorx;
+        instinctSprites[3].color = instinctColor2x;
+        
+        // Lerp the alpha from 0 to 1 over time
+        while (timeElapsed < instinctDuration)
+        {
+            timeElapsed += Time.deltaTime;
+            float alpha = Mathf.Lerp(1f, 0f, timeElapsed / instinctDuration);
+            float alpha2 = Mathf.Lerp(1f, 0f, timeElapsed / instinctDuration);
+            float alphax = Mathf.Lerp(0.25f, 0f, timeElapsed / instinctDuration);
+            float alpha2x = Mathf.Lerp(0.25f, 0f, timeElapsed / instinctDuration);
+            
+            
+            instinctColor.a = alpha;
+            instinctColor2.a = alpha2;
+            instinctColorx.a = alphax;
+            instinctColor2x.a = alpha2x;
+          
+            instinctSprites[0].color = instinctColor;
+            instinctSprites[1].color = instinctColor2;
+            instinctSprites[2].color = instinctColorx;
+            instinctSprites[3].color = instinctColor2x;
+            
+            
+            yield return null;
+        }
+
+        instinctColor.a = 0f;
+        instinctColor2.a = 0f;
+        instinctSprites[0].color = instinctColor;
+        instinctSprites[1].color = instinctColor2;
+        instinctSprites[2].color = instinctColor;
+        instinctSprites[3].color = instinctColor2;
+
+    }
     private void PauseGameForTutorial()
     {
          // Pause the game

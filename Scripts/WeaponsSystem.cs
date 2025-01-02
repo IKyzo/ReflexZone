@@ -1,4 +1,5 @@
 using UnityEngine;
+using TMPro;
 using System.Collections;
 
 public class WeaponsSystem : MonoBehaviour
@@ -10,12 +11,13 @@ public class WeaponsSystem : MonoBehaviour
     public Transform[] leftSpawnPoints;           // Array of spawn points on the left
 
     [Header("Spawn Control")]
-    public float minSpawnInterval = 1f;           // Minimum time between spawns
-    public float maxSpawnInterval = 3f;           // Maximum time between spawns
-    public float spawnDuration = 10f;             // How long to keep spawning weapons
     public bool isSpawning = true;                // Toggle to start or stop spawning
 
-    private float spawnTimer;
+    [Header("Score Control")]
+    public TextMeshProUGUI scoreText;             // TextMeshProUGUI to read the player's score
+
+    [SerializeField] private float minSpawnInterval;
+    [SerializeField] private float maxSpawnInterval;
 
     void Start()
     {
@@ -24,13 +26,76 @@ public class WeaponsSystem : MonoBehaviour
             StartCoroutine(SpawnWeapons());
     }
 
+    // Update spawn intervals based on the player's score
+    private void UpdateSpawnIntervals()
+    {
+        int playerScore = GetPlayerScore();
+
+        if (playerScore < 50)
+        {
+            minSpawnInterval = 1.5f;
+            maxSpawnInterval = 3f;
+        }
+        else if (playerScore < 100)
+        {
+            minSpawnInterval = 1.25f;
+            maxSpawnInterval = 2.5f;
+        }
+        else if (playerScore < 150)
+        {
+            minSpawnInterval = 1f;
+            maxSpawnInterval = 2f;
+        }
+        else if (playerScore < 200)
+        {
+            minSpawnInterval = 0.75f;
+            maxSpawnInterval = 1.5f;
+        }
+        else if (playerScore < 400)
+        {
+            minSpawnInterval = 0.5f;
+            maxSpawnInterval = 1f;
+        }
+        else if (playerScore < 600)
+        {
+            minSpawnInterval = 0.4f;
+            maxSpawnInterval = 1f;
+        }
+        else if (playerScore < 800)
+        {
+            minSpawnInterval = 0.3f;
+            maxSpawnInterval = 1f;
+        }
+        else if (playerScore < 1000)
+        {
+            minSpawnInterval = 0.2f;
+            maxSpawnInterval = 1f;
+        }
+        else
+        {
+            minSpawnInterval = 0.1f;
+            maxSpawnInterval = 1f;
+        }
+    }
+
+    // Get the player's score from the TextMeshProUGUI
+    private int GetPlayerScore()
+    {
+        if (int.TryParse(scoreText.text, out int score))
+        {
+            return score;
+        }
+        return 0; // Default to 0 if parsing fails
+    }
+
     // Coroutine to handle weapon spawning
     private IEnumerator SpawnWeapons()
     {
-        float elapsedTime = 0f;
-
-        while (elapsedTime < spawnDuration && isSpawning)
+        while (isSpawning)
         {
+            // Update spawn intervals based on the player's score
+            UpdateSpawnIntervals();
+
             // Randomly decide whether to spawn from the right or the left
             bool spawnFromRight = Random.value > 0.5f;
 
@@ -45,7 +110,6 @@ public class WeaponsSystem : MonoBehaviour
                 GameObject weapon = Instantiate(selectedWeapon, selectedSpawnPoint.position, selectedSpawnPoint.rotation);
                 var script = weapon.gameObject.transform.GetChild(0).GetComponent<Indicator>();
                 script.SetRotation(indexPoint);
-               
             }
             else if (leftWeapons.Length > 0 && leftSpawnPoints.Length > 0)
             {
@@ -57,15 +121,12 @@ public class WeaponsSystem : MonoBehaviour
                 // Instantiate the weapon at the chosen spawn point
                 GameObject weapon = Instantiate(selectedWeapon, selectedSpawnPoint.position, selectedSpawnPoint.rotation);
                 var script = weapon.gameObject.transform.GetChild(0).GetComponent<Indicator>();
-                script.SetRotation(indexPoint+2);
+                script.SetRotation(indexPoint + 2);
             }
 
             // Wait for a random interval between spawns
             float nextSpawnTime = Random.Range(minSpawnInterval, maxSpawnInterval);
             yield return new WaitForSeconds(nextSpawnTime);
-
-            // Increase elapsed time
-            elapsedTime += nextSpawnTime;
         }
     }
 

@@ -180,4 +180,12 @@ public class PostureSystem : MonoBehaviour
             yield return null;
         }
     }
+
+    public void ReInitiatePosture()
+    {
+        currentPosture = 0f;
+        postureBarL.fillAmount = 0f;
+        postureBarR.fillAmount = 0f;
+        
+    }
 }

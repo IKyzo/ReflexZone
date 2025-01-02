@@ -10,7 +10,7 @@ public class PlayerSystem : MonoBehaviour
     [SerializeField] private Image playerHealthBar;
     public float playerHealth = 100f;
     [SerializeField] private PostureSystem postureSystem;
-    private SpriteRenderer spriteRenderer;
+    [SerializeField] private SpriteRenderer spriteRenderer;
 
     private static readonly KeyCode[] InputKeys = 
     { 
@@ -46,9 +46,23 @@ public class PlayerSystem : MonoBehaviour
 
     public bool playerState = true;
     public bool inputState = true;
+    
+    [SerializeField] private GameManager gameManager;
+    
+    [SerializeField] private GameObject restartText;
+
+    [SerializeField] private float playerRunDuration;
+    [SerializeField] private Transform playerResetPosition;
+    [SerializeField] private Transform playerTargetPositionCenter;
+    
+    
+    [SerializeField] private Animator healthAnimator;
+    [SerializeField] private Animator postureAnimator;
+    
+    [SerializeField] private float pitchRange = 0.1f;
     void Start()
     {
-        spriteRenderer = GetComponent<SpriteRenderer>();
+        //spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     void Update()
@@ -82,11 +96,16 @@ public class PlayerSystem : MonoBehaviour
         {
             playerState = false;
             weaponsSystem.isSpawning = false;
+            StartCoroutine(gameManager.HideInstinct());
             animator.SetTrigger("Death");
             deathAnimator.SetTrigger("DeathSign");
             playerParticleSystem.Play();
+            postureSystem.ReInitiatePosture();
             inputState = false;
-            
+            healthAnimator.SetTrigger("BringDown");
+            postureAnimator.SetTrigger("BringDown");
+            StartCoroutine(Restart());
+
         }
     }
 
@@ -122,7 +141,9 @@ public class PlayerSystem : MonoBehaviour
 
             // Play the particle effect
             particleSystem.Play();
+            parrySound.pitch = 1f + Random.Range(-pitchRange, pitchRange);
             parrySound.Play();
+        
             postureSystem.UpdatePostureBar();
             postureSystem.AdjustPosture(isDeflectSuccessful);
             return;
@@ -130,7 +151,7 @@ public class PlayerSystem : MonoBehaviour
     }
     postureSystem.AdjustPosture(isDeflectSuccessful);
     // If no matching weapon found
-    Debug.Log($"Missed! Pressed {key} but no weapon to deflect.");
+    //Debug.Log($"Missed! Pressed {key} but no weapon to deflect.");
     postureSystem.UpdatePostureBar();
 }
 
@@ -175,6 +196,54 @@ private IEnumerator AnimateScoreChange(int targetScore)
         }
     }
 
+    private IEnumerator Restart()
+    {
+        yield return new WaitForSeconds(5f);
+        restartText.SetActive(true);
+        while (!Input.GetKeyDown(KeyCode.R))
+        {
+            
+            yield return null;
+        }
+        restartText.SetActive(false);
+        deathAnimator.SetTrigger("DeathReset");
+        StartCoroutine(AnimateScoreChange(0));
+        StartCoroutine(ResetPlayer());
+
+
+    }
+
+
+    private IEnumerator ResetPlayer()
+    {
+        transform.position = playerResetPosition.position;
+        HandleSpriteDirection(KeyCode.J);
+        animator.SetTrigger("Run");
+        
+        var playerStartPosition = playerResetPosition.position;
+        var elapsedTime = 0f;
+        yield return new WaitForSeconds(1f);
+        while (elapsedTime < playerRunDuration)
+        {
+            transform.position = Vector3.Lerp(playerStartPosition, playerTargetPositionCenter.position, elapsedTime / playerRunDuration);
+            elapsedTime += Time.deltaTime;
+            yield return null; // Wait for the next frame
+        }
+        
+        animator.SetTrigger("Idle");
+        StartCoroutine(gameManager.ShowInstinct());
+        playerHealthBar.fillAmount = 100;
+        playerHealth = 100f;
+        healthAnimator.SetTrigger("BringUp");
+        postureAnimator.SetTrigger("BringUp");
+        
+        inputState = true;
+        playerState = true;
+        
+        yield return new WaitForSeconds(1f);
+        weaponsSystem.StartSpawning();
+
+    }
     private void OnDrawGizmos()
     {
         // Visualize detection radius in the Scene view
