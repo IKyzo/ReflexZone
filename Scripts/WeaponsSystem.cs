@@ -109,7 +109,7 @@ public class WeaponsSystem : MonoBehaviour
                 // Instantiate the weapon at the chosen spawn point
                 GameObject weapon = Instantiate(selectedWeapon, selectedSpawnPoint.position, selectedSpawnPoint.rotation);
                 var script = weapon.gameObject.transform.GetChild(0).GetComponent<Indicator>();
-                script.SetRotation(indexPoint);
+                script.SetRotation(indexPoint + 2);
             }
             else if (leftWeapons.Length > 0 && leftSpawnPoints.Length > 0)
             {
@@ -121,7 +121,7 @@ public class WeaponsSystem : MonoBehaviour
                 // Instantiate the weapon at the chosen spawn point
                 GameObject weapon = Instantiate(selectedWeapon, selectedSpawnPoint.position, selectedSpawnPoint.rotation);
                 var script = weapon.gameObject.transform.GetChild(0).GetComponent<Indicator>();
-                script.SetRotation(indexPoint + 2);
+                script.SetRotation(indexPoint );
             }
 
             // Wait for a random interval between spawns
