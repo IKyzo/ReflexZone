@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: 498c350dccc77d84c9e814f98604a405
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6730593978571117068
+    second: ColemakLayout_0
+  - first:
+      213: 7497113601254751251
+    second: ColemakLayout_1
+  - first:
+      213: 1803780073770108260
+    second: ColemakLayout_2
+  - first:
+      213: -1883149301799071000
+    second: ColemakLayout_3
+  - first:
+      213: -2593997682532891485
+    second: ColemakLayout_4
+  - first:
+      213: 9223246634037305033
+    second: ColemakLayout_5
+  - first:
+      213: 3234830510100978374
+    second: ColemakLayout_6
+  - first:
+      213: 842604670622904739
+    second: ColemakLayout_7
+  - first:
+      213: -3449091240719203422
+    second: ColemakLayout_8
+  - first:
+      213: 7504179425949862197
+    second: ColemakLayout_9
+  - first:
+      213: -662377078069782411
+    second: ColemakLayout_10
+  - first:
+      213: -4801560362699271178
+    second: ColemakLayout_11
+  - first:
+      213: 3408985448413378400
+    second: ColemakLayout_12
+  - first:
+      213: -3767000553619713574
+    second: ColemakLayout_13
+  - first:
+      213: -5776082365396632741
+    second: ColemakLayout_14
+  - first:
+      213: 6207927537835144285
+    second: ColemakLayout_15
+  - first:
+      213: -7334875616606812581
+    second: ColemakLayout_16
+  - first:
+      213: 3989449219097835626
+    second: ColemakLayout_17
+  - first:
+      213: 6208532088594389816
+    second: ColemakLayout_18
+  - first:
+      213: -6936658846528491162
+    second: ColemakLayout_19
+  - first:
+      213: -3530735749430296173
+    second: ColemakLayout_20
+  - first:
+      213: -848183228076878481
+    second: ColemakLayout_21
+  - first:
+      213: 9141176124304681037
+    second: ColemakLayout_22
+  - first:
+      213: -2564147231372707841
+    second: ColemakLayout_23
+  - first:
+      213: 2387187049365898717
+    second: ColemakLayout_24
+  - first:
+      213: -498410760653860712
+    second: ColemakLayout_25
+  - first:
+      213: 107407704343950035
+    second: ColemakLayout_26
+  - first:
+      213: -5682377737385081701
+    second: ColemakLayout_27
+  - first:
+      213: -4257095651434262961
+    second: ColemakLayout_28
+  - first:
+      213: 2768839890123805408
+    second: ColemakLayout_29
+  - first:
+      213: 4032214020212729159
+    second: ColemakLayout_30
+  - first:
+      213: 9218061426682777421
+    second: ColemakLayout_31
+  - first:
+      213: 1505332654532373470
+    second: ColemakLayout_32
+  - first:
+      213: -9158681126870977165
+    second: ColemakLayout_33
+  - first:
+      213: -3132418113457179548
+    second: ColemakLayout_34
+  - first:
+      213: 1307762548818529290
+    second: ColemakLayout_35
+  - first:
+      213: -4812280307681400167
+    second: ColemakLayout_36
+  - first:
+      213: -1404389011788515889
+    second: ColemakLayout_37
+  - first:
+      213: -1982108828218065077
+    second: ColemakLayout_38
+  - first:
+      213: 5757608824662846417
+    second: ColemakLayout_39
+  - first:
+      213: -5752700744557990590
+    second: ColemakLayout_40
+  - first:
+      213: -3395740270023516738
+    second: ColemakLayout_41
+  - first:
+      213: -5253392400818091036
+    second: ColemakLayout_42
+  - first:
+      213: 7509969426907682264
+    second: ColemakLayout_43
+  - first:
+      213: -6618160570762722952
+    second: ColemakLayout_44
+  - first:
+      213: 6815555316758159151
+    second: ColemakLayout_45
+  - first:
+      213: -4596562916215292240
+    second: ColemakLayout_46
+  - first:
+      213: 5118838727402151470
+    second: ColemakLayout_47
+  - first:
+      213: -3961182348852218843
+    second: ColemakLayout_48
+  - first:
+      213: -4161830369538763828
+    second: ColemakLayout_49
+  - first:
+      213: -5634977082699329219
+    second: ColemakLayout_50
+  - first:
+      213: -2237425496214501545
+    second: ColemakLayout_51
+  - first:
+      213: -7595917167817396460
+    second: ColemakLayout_52
+  - first:
+      213: -1936364134105665367
+    second: ColemakLayout_53
+  - first:
+      213: -9028549038323612452
+    second: ColemakLayout_54
+  - first:
+      213: 4670369496236426095
+    second: ColemakLayout_55
+  - first:
+      213: -6067346142596497765
+    second: ColemakLayout_56
+  - first:
+      213: -7251989525677870685
+    second: ColemakLayout_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ColemakLayout_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c025d14309fd76d50800000000000000
+      internalID: 6730593978571117068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cf98359191b0860800000000000000
+      internalID: 7497113601254751251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465cef59b60580910800000000000000
+      internalID: 1803780073770108260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2dd37ffa5bdd5e0800000000000000
+      internalID: -1883149301799071000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4c070f9d4400cd0800000000000000
+      internalID: -2593997682532891485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce5c9162fd8fff70800000000000000
+      internalID: 9223246634037305033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca1a27c53d64ec20800000000000000
+      internalID: 3234830510100978374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1309ecb7881bb00800000000000000
+      internalID: 842604670622904739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a345076acd5220d0800000000000000
+      internalID: -3449091240719203422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5394986dd63342860800000000000000
+      internalID: 7504179425949862197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5781a429e83cec6f0800000000000000
+      internalID: -662377078069782411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3d6b53a4e6d5db0800000000000000
+      internalID: -4801560362699271178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067b72924362f4f20800000000000000
+      internalID: 3408985448413378400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad11cc474fce8bbc0800000000000000
+      internalID: -3767000553619713574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bb22111bb37dfa0800000000000000
+      internalID: -5776082365396632741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d547704643df62650800000000000000
+      internalID: 6207927537835144285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b560a701d79453a90800000000000000
+      internalID: -7334875616606812581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6839c18dee5d5730800000000000000
+      internalID: 3989449219097835626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b58455a03292650800000000000000
+      internalID: 6208532088594389816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6613994f7890cbf90800000000000000
+      internalID: -6936658846528491162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3914f63ea8e400fc0800000000000000
+      internalID: -3530735749430296173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65980219d5aa34f0800000000000000
+      internalID: -848183228076878481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d486676c04bfbde70800000000000000
+      internalID: 9141176124304681037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff77a32bda15a6cd0800000000000000
+      internalID: -2564147231372707841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd50ed939fdf02120800000000000000
+      internalID: 2387187049365898717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8909efacd0a4519f0800000000000000
+      internalID: -498410760653860712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2bf8fecb69d7100800000000000000
+      internalID: 107407704343950035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_27
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94039bed832421b0800000000000000
+      internalID: -5682377737385081701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_28
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 68
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e86616f02cbe4c0800000000000000
+      internalID: -4257095651434262961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2d2cac535ec6620800000000000000
+      internalID: 2768839890123805408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745212da94d45f730800000000000000
+      internalID: 4032214020212729159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f482737022def70800000000000000
+      internalID: 9218061426682777421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edba23ed21404e410800000000000000
+      internalID: 1505332654532373470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375f7c53a04d5e080800000000000000
+      internalID: -9158681126870977165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464b263725a6784d0800000000000000
+      internalID: -3132418113457179548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c43ecfb1b162210800000000000000
+      internalID: 1307762548818529290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_36
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99aea058e88573db0800000000000000
+      internalID: -4812280307681400167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc532e172ab928ce0800000000000000
+      internalID: -1404389011788515889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f75ebb5822e74e0800000000000000
+      internalID: -1982108828218065077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_39
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbeead88b227ef40800000000000000
+      internalID: 5757608824662846417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_40
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dee75e62d4a20b0800000000000000
+      internalID: -5752700744557990590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd52cf3738efd0d0800000000000000
+      internalID: -3395740270023516738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb4083f1733817b0800000000000000
+      internalID: -5253392400818091036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d550ec7765c83860800000000000000
+      internalID: 7509969426907682264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871013186029724a0800000000000000
+      internalID: -6618160570762722952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f15624377b59e50800000000000000
+      internalID: 6815555316758159151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bef04f916ab530c0800000000000000
+      internalID: -4596562916215292240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_47
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e5159a3b4c90740800000000000000
+      internalID: 5118838727402151470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524bd1614ad0709c0800000000000000
+      internalID: -3961182348852218843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3953844553e36c0800000000000000
+      internalID: -4161830369538763828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_50
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d315d3cd23a8cc1b0800000000000000
+      internalID: -5634977082699329219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_51
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7578bb69d5113f0e0800000000000000
+      internalID: -2237425496214501545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_52
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 35
+        width: 89
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fe3fca491e59690800000000000000
+      internalID: -7595917167817396460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a033de4417a025e0800000000000000
+      internalID: -1936364134105665367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4c6852c7624b280800000000000000
+      internalID: -9028549038323612452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2
+        width: 203
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f630ef8ef4c70d040800000000000000
+      internalID: 4670369496236426095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_56
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ef23954d47ccba0800000000000000
+      internalID: -6067346142596497765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColemakLayout_57
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1fd17f2f1cb5b90800000000000000
+      internalID: -7251989525677870685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ColemakLayout_0: 6730593978571117068
+      ColemakLayout_1: 7497113601254751251
+      ColemakLayout_10: -662377078069782411
+      ColemakLayout_11: -4801560362699271178
+      ColemakLayout_12: 3408985448413378400
+      ColemakLayout_13: -3767000553619713574
+      ColemakLayout_14: -5776082365396632741
+      ColemakLayout_15: 6207927537835144285
+      ColemakLayout_16: -7334875616606812581
+      ColemakLayout_17: 3989449219097835626
+      ColemakLayout_18: 6208532088594389816
+      ColemakLayout_19: -6936658846528491162
+      ColemakLayout_2: 1803780073770108260
+      ColemakLayout_20: -3530735749430296173
+      ColemakLayout_21: -848183228076878481
+      ColemakLayout_22: 9141176124304681037
+      ColemakLayout_23: -2564147231372707841
+      ColemakLayout_24: 2387187049365898717
+      ColemakLayout_25: -498410760653860712
+      ColemakLayout_26: 107407704343950035
+      ColemakLayout_27: -5682377737385081701
+      ColemakLayout_28: -4257095651434262961
+      ColemakLayout_29: 2768839890123805408
+      ColemakLayout_3: -1883149301799071000
+      ColemakLayout_30: 4032214020212729159
+      ColemakLayout_31: 9218061426682777421
+      ColemakLayout_32: 1505332654532373470
+      ColemakLayout_33: -9158681126870977165
+      ColemakLayout_34: -3132418113457179548
+      ColemakLayout_35: 1307762548818529290
+      ColemakLayout_36: -4812280307681400167
+      ColemakLayout_37: -1404389011788515889
+      ColemakLayout_38: -1982108828218065077
+      ColemakLayout_39: 5757608824662846417
+      ColemakLayout_4: -2593997682532891485
+      ColemakLayout_40: -5752700744557990590
+      ColemakLayout_41: -3395740270023516738
+      ColemakLayout_42: -5253392400818091036
+      ColemakLayout_43: 7509969426907682264
+      ColemakLayout_44: -6618160570762722952
+      ColemakLayout_45: 6815555316758159151
+      ColemakLayout_46: -4596562916215292240
+      ColemakLayout_47: 5118838727402151470
+      ColemakLayout_48: -3961182348852218843
+      ColemakLayout_49: -4161830369538763828
+      ColemakLayout_5: 9223246634037305033
+      ColemakLayout_50: -5634977082699329219
+      ColemakLayout_51: -2237425496214501545
+      ColemakLayout_52: -7595917167817396460
+      ColemakLayout_53: -1936364134105665367
+      ColemakLayout_54: -9028549038323612452
+      ColemakLayout_55: 4670369496236426095
+      ColemakLayout_56: -6067346142596497765
+      ColemakLayout_57: -7251989525677870685
+      ColemakLayout_6: 3234830510100978374
+      ColemakLayout_7: 842604670622904739
+      ColemakLayout_8: -3449091240719203422
+      ColemakLayout_9: 7504179425949862197
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

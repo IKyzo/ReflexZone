@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: df2ead56b5338b8449624d69ff3c5d86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6640264111335768657
+    second: NormanLayout_0
+  - first:
+      213: -6348205226669849171
+    second: NormanLayout_1
+  - first:
+      213: -1039076702317475273
+    second: NormanLayout_2
+  - first:
+      213: 3564975823380131287
+    second: NormanLayout_3
+  - first:
+      213: 3296798613859139254
+    second: NormanLayout_4
+  - first:
+      213: 3394152944706142248
+    second: NormanLayout_5
+  - first:
+      213: 6889317186513382536
+    second: NormanLayout_6
+  - first:
+      213: 4962404917954954674
+    second: NormanLayout_7
+  - first:
+      213: 7044129579780574188
+    second: NormanLayout_8
+  - first:
+      213: -1369677135499566446
+    second: NormanLayout_9
+  - first:
+      213: -233290797434383995
+    second: NormanLayout_10
+  - first:
+      213: 8982747987815185292
+    second: NormanLayout_11
+  - first:
+      213: -2884764596831538198
+    second: NormanLayout_12
+  - first:
+      213: 5372893300248461890
+    second: NormanLayout_13
+  - first:
+      213: 3270976357952699250
+    second: NormanLayout_14
+  - first:
+      213: -3357923156001593167
+    second: NormanLayout_15
+  - first:
+      213: 554483806845835310
+    second: NormanLayout_16
+  - first:
+      213: 5231326544903528193
+    second: NormanLayout_17
+  - first:
+      213: -1562916855261634091
+    second: NormanLayout_18
+  - first:
+      213: -4592559980803376931
+    second: NormanLayout_19
+  - first:
+      213: 6994363643530819823
+    second: NormanLayout_20
+  - first:
+      213: 4200458095102504180
+    second: NormanLayout_21
+  - first:
+      213: -6730230459090472535
+    second: NormanLayout_22
+  - first:
+      213: -5126429354400118614
+    second: NormanLayout_23
+  - first:
+      213: 8004945623212289161
+    second: NormanLayout_24
+  - first:
+      213: -1655177998847646845
+    second: NormanLayout_25
+  - first:
+      213: -3972120763241329033
+    second: NormanLayout_26
+  - first:
+      213: 1344022710330662723
+    second: NormanLayout_27
+  - first:
+      213: 1416537733139247580
+    second: NormanLayout_28
+  - first:
+      213: -7731378037763310261
+    second: NormanLayout_29
+  - first:
+      213: 5003211638841908844
+    second: NormanLayout_30
+  - first:
+      213: -2333933448672324427
+    second: NormanLayout_31
+  - first:
+      213: -7092885708803793397
+    second: NormanLayout_32
+  - first:
+      213: 9046241615160472245
+    second: NormanLayout_33
+  - first:
+      213: -7855531726578918405
+    second: NormanLayout_34
+  - first:
+      213: 9002894331628032574
+    second: NormanLayout_35
+  - first:
+      213: -2704948464155069210
+    second: NormanLayout_36
+  - first:
+      213: 6741271424824741050
+    second: NormanLayout_37
+  - first:
+      213: 2107440246287307683
+    second: NormanLayout_38
+  - first:
+      213: 1524056078735103209
+    second: NormanLayout_39
+  - first:
+      213: -4927248658879129725
+    second: NormanLayout_40
+  - first:
+      213: -6468700134741633244
+    second: NormanLayout_41
+  - first:
+      213: 8702914782457677649
+    second: NormanLayout_42
+  - first:
+      213: -8949345238860369016
+    second: NormanLayout_43
+  - first:
+      213: 1052837012818051025
+    second: NormanLayout_44
+  - first:
+      213: -1573372499844041322
+    second: NormanLayout_45
+  - first:
+      213: -7422924478929356770
+    second: NormanLayout_46
+  - first:
+      213: -468496905226470905
+    second: NormanLayout_47
+  - first:
+      213: 2911224566062437802
+    second: NormanLayout_48
+  - first:
+      213: -2447699307027455401
+    second: NormanLayout_49
+  - first:
+      213: 3587331763613128610
+    second: NormanLayout_50
+  - first:
+      213: -4046378886192799473
+    second: NormanLayout_51
+  - first:
+      213: 5383021379065997900
+    second: NormanLayout_52
+  - first:
+      213: -3834911055601030584
+    second: NormanLayout_53
+  - first:
+      213: -1400111213449493666
+    second: NormanLayout_54
+  - first:
+      213: 3462957580612472497
+    second: NormanLayout_55
+  - first:
+      213: -1330022125316649012
+    second: NormanLayout_56
+  - first:
+      213: -677559187156200558
+    second: NormanLayout_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NormanLayout_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15281f21705f62c50800000000000000
+      internalID: 6640264111335768657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5c0170bf4a6e7a0800000000000000
+      internalID: -6348205226669849171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a8bf79e357491f0800000000000000
+      internalID: -1039076702317475273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddad619f96597130800000000000000
+      internalID: 3564975823380131287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bef2134fd490cd20800000000000000
+      internalID: 3296798613859139254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8204e86ce147a1f20800000000000000
+      internalID: 3394152944706142248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88caf1fda75cb9f50800000000000000
+      internalID: 6889317186513382536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b54b5e1bf00ed440800000000000000
+      internalID: 4962404917954954674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb84aa0886c1c160800000000000000
+      internalID: 7044129579780574188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292e291f6ededfce0800000000000000
+      internalID: -1369677135499566446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5815e89714f23ccf0800000000000000
+      internalID: -233290797434383995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b3498c3b129ac70800000000000000
+      internalID: 8982747987815185292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3bb3122e147f7d0800000000000000
+      internalID: -2884764596831538198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242c2616df9509a40800000000000000
+      internalID: 5372893300248461890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bb87ccaa7d46d20800000000000000
+      internalID: 3270976357952699250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8677f3ea24661d0800000000000000
+      internalID: -3357923156001593167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2890c4a51ce1b700800000000000000
+      internalID: 554483806845835310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fdb0d96c7699840800000000000000
+      internalID: 5231326544903528193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1e8ac96676f4ae0800000000000000
+      internalID: -1562916855261634091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd83a86a703f340c0800000000000000
+      internalID: -4592559980803376931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8bf821da8f01160800000000000000
+      internalID: 6994363643530819823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcaf7ce1660b4a30800000000000000
+      internalID: 4200458095102504180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1f5654e0b6992a0800000000000000
+      internalID: -6730230459090472535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa888d4c9a34bd8b0800000000000000
+      internalID: -5126429354400118614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ce2edd1a7471f60800000000000000
+      internalID: 8004945623212289161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383e4aa2160a709e0800000000000000
+      internalID: -1655177998847646845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e0c06063130e8c0800000000000000
+      internalID: -3972120763241329033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_27
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f115bb88de6a210800000000000000
+      internalID: 1344022710330662723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_28
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 68
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1b3ba209d88a310800000000000000
+      internalID: 1416537733139247580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d7cd223a0a4b490800000000000000
+      internalID: -7731378037763310261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e95453a7afe6540800000000000000
+      internalID: 5003211638841908844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4db76e4e33c9fd0800000000000000
+      internalID: -2333933448672324427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e1e4e0702019d90800000000000000
+      internalID: -7092885708803793397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2fef7e1d4ba8d70800000000000000
+      internalID: 9046241615160472245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbd37bd38b8bf290800000000000000
+      internalID: -7855531726578918405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32111bf1b4b0fc70800000000000000
+      internalID: 9002894331628032574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_36
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e47c4a04b7167ad0800000000000000
+      internalID: -2704948464155069210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc8b23e4aecd8d50800000000000000
+      internalID: 6741271424824741050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a311510db12f3d10800000000000000
+      internalID: 2107440246287307683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_39
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4d7c6cde8862510800000000000000
+      internalID: 1524056078735103209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_40
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3875d7f4375ee9bb0800000000000000
+      internalID: -4927248658879129725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4271436008f8a36a0800000000000000
+      internalID: -6468700134741633244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157c2e672e6f6c870800000000000000
+      internalID: 8702914782457677649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883f461cbe98dc380800000000000000
+      internalID: -8949345238860369016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df376b5fad6c9e00800000000000000
+      internalID: 1052837012818051025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6957d672c024a2ae0800000000000000
+      internalID: -1573372499844041322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e183dd6c3897cf890800000000000000
+      internalID: -7422924478929356770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_47
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a3b910c809f79f0800000000000000
+      internalID: -468496905226470905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5da89815fb66820800000000000000
+      internalID: 2911224566062437802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752a8afd276080ed0800000000000000
+      internalID: -2447699307027455401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_50
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7d2a58b33c8c130800000000000000
+      internalID: 3587331763613128610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_51
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0166d577df58d7c0800000000000000
+      internalID: -4046378886192799473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_52
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 35
+        width: 89
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aef8d7c6554ba40800000000000000
+      internalID: 5383021379065997900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aaea196b8a7cac0800000000000000
+      internalID: -3834911055601030584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e534d4cf44ec19ce0800000000000000
+      internalID: -1400111213449493666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2
+        width: 203
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be07a07295ee0030800000000000000
+      internalID: 3462957580612472497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_56
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf471d7cefca8de0800000000000000
+      internalID: -1330022125316649012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormanLayout_57
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29390475283d896f0800000000000000
+      internalID: -677559187156200558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NormanLayout_0: 6640264111335768657
+      NormanLayout_1: -6348205226669849171
+      NormanLayout_10: -233290797434383995
+      NormanLayout_11: 8982747987815185292
+      NormanLayout_12: -2884764596831538198
+      NormanLayout_13: 5372893300248461890
+      NormanLayout_14: 3270976357952699250
+      NormanLayout_15: -3357923156001593167
+      NormanLayout_16: 554483806845835310
+      NormanLayout_17: 5231326544903528193
+      NormanLayout_18: -1562916855261634091
+      NormanLayout_19: -4592559980803376931
+      NormanLayout_2: -1039076702317475273
+      NormanLayout_20: 6994363643530819823
+      NormanLayout_21: 4200458095102504180
+      NormanLayout_22: -6730230459090472535
+      NormanLayout_23: -5126429354400118614
+      NormanLayout_24: 8004945623212289161
+      NormanLayout_25: -1655177998847646845
+      NormanLayout_26: -3972120763241329033
+      NormanLayout_27: 1344022710330662723
+      NormanLayout_28: 1416537733139247580
+      NormanLayout_29: -7731378037763310261
+      NormanLayout_3: 3564975823380131287
+      NormanLayout_30: 5003211638841908844
+      NormanLayout_31: -2333933448672324427
+      NormanLayout_32: -7092885708803793397
+      NormanLayout_33: 9046241615160472245
+      NormanLayout_34: -7855531726578918405
+      NormanLayout_35: 9002894331628032574
+      NormanLayout_36: -2704948464155069210
+      NormanLayout_37: 6741271424824741050
+      NormanLayout_38: 2107440246287307683
+      NormanLayout_39: 1524056078735103209
+      NormanLayout_4: 3296798613859139254
+      NormanLayout_40: -4927248658879129725
+      NormanLayout_41: -6468700134741633244
+      NormanLayout_42: 8702914782457677649
+      NormanLayout_43: -8949345238860369016
+      NormanLayout_44: 1052837012818051025
+      NormanLayout_45: -1573372499844041322
+      NormanLayout_46: -7422924478929356770
+      NormanLayout_47: -468496905226470905
+      NormanLayout_48: 2911224566062437802
+      NormanLayout_49: -2447699307027455401
+      NormanLayout_5: 3394152944706142248
+      NormanLayout_50: 3587331763613128610
+      NormanLayout_51: -4046378886192799473
+      NormanLayout_52: 5383021379065997900
+      NormanLayout_53: -3834911055601030584
+      NormanLayout_54: -1400111213449493666
+      NormanLayout_55: 3462957580612472497
+      NormanLayout_56: -1330022125316649012
+      NormanLayout_57: -677559187156200558
+      NormanLayout_6: 6889317186513382536
+      NormanLayout_7: 4962404917954954674
+      NormanLayout_8: 7044129579780574188
+      NormanLayout_9: -1369677135499566446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

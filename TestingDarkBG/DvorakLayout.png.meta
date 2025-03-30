@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: e1f5fa319207b6142943bd0c50a8404a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2564111556851704174
+    second: DvorakLayout_0
+  - first:
+      213: -4786395657712940291
+    second: DvorakLayout_1
+  - first:
+      213: 2217549478424072350
+    second: DvorakLayout_2
+  - first:
+      213: -4308510318331538052
+    second: DvorakLayout_3
+  - first:
+      213: 7948625997098558340
+    second: DvorakLayout_4
+  - first:
+      213: -8303325581742392085
+    second: DvorakLayout_5
+  - first:
+      213: 7044050742862014226
+    second: DvorakLayout_6
+  - first:
+      213: -4889534418006541020
+    second: DvorakLayout_7
+  - first:
+      213: 7591971653923627500
+    second: DvorakLayout_8
+  - first:
+      213: -1209936478272693455
+    second: DvorakLayout_9
+  - first:
+      213: 342078967413987059
+    second: DvorakLayout_10
+  - first:
+      213: 2419164509530058096
+    second: DvorakLayout_11
+  - first:
+      213: 1879696043022181086
+    second: DvorakLayout_12
+  - first:
+      213: 6524491628272680917
+    second: DvorakLayout_13
+  - first:
+      213: -2753617578404233396
+    second: DvorakLayout_14
+  - first:
+      213: 5260638655044615809
+    second: DvorakLayout_15
+  - first:
+      213: -2513277355154951334
+    second: DvorakLayout_16
+  - first:
+      213: -2983957296720018380
+    second: DvorakLayout_17
+  - first:
+      213: 269519922902523945
+    second: DvorakLayout_18
+  - first:
+      213: 8468265050362163535
+    second: DvorakLayout_19
+  - first:
+      213: 6659283871719330779
+    second: DvorakLayout_20
+  - first:
+      213: 4909123501659840138
+    second: DvorakLayout_21
+  - first:
+      213: -188085406409247763
+    second: DvorakLayout_22
+  - first:
+      213: -4995597093222826431
+    second: DvorakLayout_23
+  - first:
+      213: 5905070343653212357
+    second: DvorakLayout_24
+  - first:
+      213: -6038809982386882553
+    second: DvorakLayout_25
+  - first:
+      213: 2187512161660234940
+    second: DvorakLayout_26
+  - first:
+      213: -1988812641851180655
+    second: DvorakLayout_27
+  - first:
+      213: 8722077244339329635
+    second: DvorakLayout_28
+  - first:
+      213: 30881839335215787
+    second: DvorakLayout_29
+  - first:
+      213: 7903064884693206581
+    second: DvorakLayout_30
+  - first:
+      213: 8635772017968061297
+    second: DvorakLayout_31
+  - first:
+      213: 7607340792100645466
+    second: DvorakLayout_32
+  - first:
+      213: 1081388710192387435
+    second: DvorakLayout_33
+  - first:
+      213: 4981901915100207890
+    second: DvorakLayout_34
+  - first:
+      213: 630501747218238563
+    second: DvorakLayout_35
+  - first:
+      213: -1339092104167432123
+    second: DvorakLayout_36
+  - first:
+      213: 4511862469171221101
+    second: DvorakLayout_37
+  - first:
+      213: -468566902238274294
+    second: DvorakLayout_38
+  - first:
+      213: -5232279645223484020
+    second: DvorakLayout_39
+  - first:
+      213: 6258860837247061004
+    second: DvorakLayout_40
+  - first:
+      213: -3931528183526555054
+    second: DvorakLayout_41
+  - first:
+      213: 7634975548643380702
+    second: DvorakLayout_42
+  - first:
+      213: -3944171412130530233
+    second: DvorakLayout_43
+  - first:
+      213: 7384168074890860649
+    second: DvorakLayout_44
+  - first:
+      213: 2923395856429016080
+    second: DvorakLayout_45
+  - first:
+      213: -2088302718589358337
+    second: DvorakLayout_46
+  - first:
+      213: 7690392872046573242
+    second: DvorakLayout_47
+  - first:
+      213: 2308125539508656235
+    second: DvorakLayout_48
+  - first:
+      213: 4709035677315383189
+    second: DvorakLayout_49
+  - first:
+      213: 8452912520046028153
+    second: DvorakLayout_50
+  - first:
+      213: 5030062737625630156
+    second: DvorakLayout_51
+  - first:
+      213: -7928130247359937748
+    second: DvorakLayout_52
+  - first:
+      213: -3264886038106311360
+    second: DvorakLayout_53
+  - first:
+      213: -5565562724356436715
+    second: DvorakLayout_54
+  - first:
+      213: -4683566857294238853
+    second: DvorakLayout_55
+  - first:
+      213: -7450517309739217199
+    second: DvorakLayout_56
+  - first:
+      213: 8659501142208002601
+    second: DvorakLayout_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DvorakLayout_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61ae9e20ed859320800000000000000
+      internalID: 2564111556851704174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa4c8b328e439db0800000000000000
+      internalID: -4786395657712940291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90d155608156ce10800000000000000
+      internalID: 2217549478424072350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c755eb461b81534c0800000000000000
+      internalID: -4308510318331538052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483ae711b313f4e60800000000000000
+      internalID: 7948625997098558340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becb4d55069a4cc80800000000000000
+      internalID: -8303325581742392085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217ed1464de71c160800000000000000
+      internalID: 7044050742862014226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d7ca94a52e42cb0800000000000000
+      internalID: -4889534418006541020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1e3f8cef91c5960800000000000000
+      internalID: 7591971653923627500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bd4cbfe21753fe0800000000000000
+      internalID: -1209936478272693455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6d7d9220f4fb400800000000000000
+      internalID: 342078967413987059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d65cbdd49929120800000000000000
+      internalID: 2419164509530058096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed26b029795061a10800000000000000
+      internalID: 1879696043022181086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dff3335196ab8a50800000000000000
+      internalID: 6524491628272680917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fb1f7d66f29c9d0800000000000000
+      internalID: -2753617578404233396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e7f951cfa810940800000000000000
+      internalID: 5260638655044615809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53b4f7bf8b0f1dd0800000000000000
+      internalID: -2513277355154951334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4348118f5aad696d0800000000000000
+      internalID: -2983957296720018380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920ee7021f68db300800000000000000
+      internalID: 269519922902523945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4131be4232558570800000000000000
+      internalID: 8468265050362163535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3915026678a6c50800000000000000
+      internalID: 6659283871719330779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ed4faa0d5b02440800000000000000
+      internalID: 4909123501659840138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3ba83c159c36df0800000000000000
+      internalID: -188085406409247763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eba7959e21caab0800000000000000
+      internalID: -4995597093222826431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0c42fe03603f150800000000000000
+      internalID: 5905070343653212357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7083fb5e056d13ca0800000000000000
+      internalID: -6038809982386882553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcea9998ba9b5e10800000000000000
+      internalID: 2187512161660234940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_27
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19977ad70715664e0800000000000000
+      internalID: -1988812641851180655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_28
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 68
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a1d5cca0b0b0970800000000000000
+      internalID: 8722077244339329635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba216978ed6bd6000800000000000000
+      internalID: 30881839335215787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5368001f3a35dad60800000000000000
+      internalID: 7903064884693206581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b9e3465ec68d770800000000000000
+      internalID: 8635772017968061297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a6f7e1524b29960800000000000000
+      internalID: 7607340792100645466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65922f6d4dd10f00800000000000000
+      internalID: 1081388710192387435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bd2638565432540800000000000000
+      internalID: 4981901915100207890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cc431affdffb800800000000000000
+      internalID: 630501747218238563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_36
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540e19973d69a6de0800000000000000
+      internalID: -1339092104167432123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d621e56c20b5d9e30800000000000000
+      internalID: 4511862469171221101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d159e82e05f79f0800000000000000
+      internalID: -468566902238274294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_39
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8582fc62653367b0800000000000000
+      internalID: -5232279645223484020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_40
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c07b645c0fbd650800000000000000
+      internalID: 6258860837247061004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252867c72f76079c0800000000000000
+      internalID: -3931528183526555054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd8ea54fc1e4f960800000000000000
+      internalID: 7634975548643380702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c75be6ffc7349c0800000000000000
+      internalID: -3944171412130530233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96856a9bdb5d97660800000000000000
+      internalID: 7384168074890860649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014ec48ea0df19820800000000000000
+      internalID: 2923395856429016080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeaff2edbbd403e0800000000000000
+      internalID: -2088302718589358337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_47
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab638895293c9ba60800000000000000
+      internalID: 7690392872046573242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b689b6ff2fb180020800000000000000
+      internalID: 2308125539508656235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f360dbffad95140800000000000000
+      internalID: 4709035677315383189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_50
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975abcac627ce4570800000000000000
+      internalID: 8452912520046028153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_51
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5ca12d86f5ec540800000000000000
+      internalID: 5030062737625630156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_52
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 35
+        width: 89
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23c4198b8f99f190800000000000000
+      internalID: -7928130247359937748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0457a8a427bc0b2d0800000000000000
+      internalID: -3264886038106311360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d4497903623c2b0800000000000000
+      internalID: -5565562724356436715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2
+        width: 203
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b2f2502c0a00fb0800000000000000
+      internalID: -4683566857294238853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_56
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de48183bf17a9890800000000000000
+      internalID: -7450517309739217199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DvorakLayout_57
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ab569a86abc2870800000000000000
+      internalID: 8659501142208002601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DvorakLayout_0: 2564111556851704174
+      DvorakLayout_1: -4786395657712940291
+      DvorakLayout_10: 342078967413987059
+      DvorakLayout_11: 2419164509530058096
+      DvorakLayout_12: 1879696043022181086
+      DvorakLayout_13: 6524491628272680917
+      DvorakLayout_14: -2753617578404233396
+      DvorakLayout_15: 5260638655044615809
+      DvorakLayout_16: -2513277355154951334
+      DvorakLayout_17: -2983957296720018380
+      DvorakLayout_18: 269519922902523945
+      DvorakLayout_19: 8468265050362163535
+      DvorakLayout_2: 2217549478424072350
+      DvorakLayout_20: 6659283871719330779
+      DvorakLayout_21: 4909123501659840138
+      DvorakLayout_22: -188085406409247763
+      DvorakLayout_23: -4995597093222826431
+      DvorakLayout_24: 5905070343653212357
+      DvorakLayout_25: -6038809982386882553
+      DvorakLayout_26: 2187512161660234940
+      DvorakLayout_27: -1988812641851180655
+      DvorakLayout_28: 8722077244339329635
+      DvorakLayout_29: 30881839335215787
+      DvorakLayout_3: -4308510318331538052
+      DvorakLayout_30: 7903064884693206581
+      DvorakLayout_31: 8635772017968061297
+      DvorakLayout_32: 7607340792100645466
+      DvorakLayout_33: 1081388710192387435
+      DvorakLayout_34: 4981901915100207890
+      DvorakLayout_35: 630501747218238563
+      DvorakLayout_36: -1339092104167432123
+      DvorakLayout_37: 4511862469171221101
+      DvorakLayout_38: -468566902238274294
+      DvorakLayout_39: -5232279645223484020
+      DvorakLayout_4: 7948625997098558340
+      DvorakLayout_40: 6258860837247061004
+      DvorakLayout_41: -3931528183526555054
+      DvorakLayout_42: 7634975548643380702
+      DvorakLayout_43: -3944171412130530233
+      DvorakLayout_44: 7384168074890860649
+      DvorakLayout_45: 2923395856429016080
+      DvorakLayout_46: -2088302718589358337
+      DvorakLayout_47: 7690392872046573242
+      DvorakLayout_48: 2308125539508656235
+      DvorakLayout_49: 4709035677315383189
+      DvorakLayout_5: -8303325581742392085
+      DvorakLayout_50: 8452912520046028153
+      DvorakLayout_51: 5030062737625630156
+      DvorakLayout_52: -7928130247359937748
+      DvorakLayout_53: -3264886038106311360
+      DvorakLayout_54: -5565562724356436715
+      DvorakLayout_55: -4683566857294238853
+      DvorakLayout_56: -7450517309739217199
+      DvorakLayout_57: 8659501142208002601
+      DvorakLayout_6: 7044050742862014226
+      DvorakLayout_7: -4889534418006541020
+      DvorakLayout_8: 7591971653923627500
+      DvorakLayout_9: -1209936478272693455
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: d0ccec3e9a0165844838b0cb83af9a85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2716018973241644836
+    second: QwertyLayout_0
+  - first:
+      213: 8018127776077515649
+    second: QwertyLayout_1
+  - first:
+      213: -6040659646352142794
+    second: QwertyLayout_2
+  - first:
+      213: -8083321525365130397
+    second: QwertyLayout_3
+  - first:
+      213: -3881040333918173185
+    second: QwertyLayout_4
+  - first:
+      213: 5554036582423803950
+    second: QwertyLayout_5
+  - first:
+      213: 7567224287616412218
+    second: QwertyLayout_6
+  - first:
+      213: 174732712352958858
+    second: QwertyLayout_7
+  - first:
+      213: -4073413256468739901
+    second: QwertyLayout_8
+  - first:
+      213: 391960549425381740
+    second: QwertyLayout_9
+  - first:
+      213: -8544530982488984278
+    second: QwertyLayout_10
+  - first:
+      213: 8450532731468418997
+    second: QwertyLayout_11
+  - first:
+      213: -3043092744931735717
+    second: QwertyLayout_12
+  - first:
+      213: 1326393148656052070
+    second: QwertyLayout_13
+  - first:
+      213: -7388527174633001207
+    second: QwertyLayout_14
+  - first:
+      213: 8574964511413462884
+    second: QwertyLayout_15
+  - first:
+      213: -1847043787296233059
+    second: QwertyLayout_16
+  - first:
+      213: 5489428050899480738
+    second: QwertyLayout_17
+  - first:
+      213: 5183884085237438092
+    second: QwertyLayout_18
+  - first:
+      213: 8012006093979235520
+    second: QwertyLayout_19
+  - first:
+      213: 578256050541489639
+    second: QwertyLayout_20
+  - first:
+      213: -659121954492642344
+    second: QwertyLayout_21
+  - first:
+      213: -431865098232908883
+    second: QwertyLayout_22
+  - first:
+      213: 8802201502559682090
+    second: QwertyLayout_23
+  - first:
+      213: -7713356874541675296
+    second: QwertyLayout_24
+  - first:
+      213: -7503669264721737059
+    second: QwertyLayout_25
+  - first:
+      213: -5564642548384056371
+    second: QwertyLayout_26
+  - first:
+      213: -9152881025482522325
+    second: QwertyLayout_27
+  - first:
+      213: 7547169913605555344
+    second: QwertyLayout_28
+  - first:
+      213: -175869160144984745
+    second: QwertyLayout_29
+  - first:
+      213: -4423551687876200635
+    second: QwertyLayout_30
+  - first:
+      213: 8849388850948359796
+    second: QwertyLayout_31
+  - first:
+      213: -531607578113888474
+    second: QwertyLayout_32
+  - first:
+      213: 8259412478416530060
+    second: QwertyLayout_33
+  - first:
+      213: -1425851521561787724
+    second: QwertyLayout_34
+  - first:
+      213: 3310497690886937944
+    second: QwertyLayout_35
+  - first:
+      213: 1664879043773736450
+    second: QwertyLayout_36
+  - first:
+      213: 844909169800535783
+    second: QwertyLayout_37
+  - first:
+      213: -1574054651852686511
+    second: QwertyLayout_38
+  - first:
+      213: -7181229544814216683
+    second: QwertyLayout_39
+  - first:
+      213: -3955245792631138725
+    second: QwertyLayout_40
+  - first:
+      213: 226720045129492049
+    second: QwertyLayout_41
+  - first:
+      213: 6856011905646523688
+    second: QwertyLayout_42
+  - first:
+      213: -7264237552414285821
+    second: QwertyLayout_43
+  - first:
+      213: -1330346598647373858
+    second: QwertyLayout_44
+  - first:
+      213: 6380118009610159191
+    second: QwertyLayout_45
+  - first:
+      213: 7907692198140735822
+    second: QwertyLayout_46
+  - first:
+      213: 3192151821989933800
+    second: QwertyLayout_47
+  - first:
+      213: 5764654897560781313
+    second: QwertyLayout_48
+  - first:
+      213: 1308488988953052715
+    second: QwertyLayout_49
+  - first:
+      213: 3369236260619632469
+    second: QwertyLayout_50
+  - first:
+      213: -21389033371229080
+    second: QwertyLayout_51
+  - first:
+      213: -4987925973432404418
+    second: QwertyLayout_52
+  - first:
+      213: 7304362693372785650
+    second: QwertyLayout_53
+  - first:
+      213: -7082953079964175400
+    second: QwertyLayout_54
+  - first:
+      213: -9170060751891727238
+    second: QwertyLayout_55
+  - first:
+      213: 2515376699692352414
+    second: QwertyLayout_56
+  - first:
+      213: 939925330435159005
+    second: QwertyLayout_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: QwertyLayout_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8e5b84223ce4ad0800000000000000
+      internalID: -2716018973241644836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b0bc00bbc164f60800000000000000
+      internalID: 8018127776077515649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ec4227e044b2ca0800000000000000
+      internalID: -6040659646352142794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bb75366e542df80800000000000000
+      internalID: -8083321525365130397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff708d10166c32ac0800000000000000
+      internalID: -3881040333918173185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2835ec58d6e31d40800000000000000
+      internalID: 5554036582423803950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aa51f856e240960800000000000000
+      internalID: 7567224287616412218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a894072e976cc6200800000000000000
+      internalID: 174732712352958858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c840d0a9345877c0800000000000000
+      internalID: -4073413256468739901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6187720b06807500800000000000000
+      internalID: 391960549425381740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25bc60a75abb6980800000000000000
+      internalID: -8544530982488984278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf8cf51fb2564570800000000000000
+      internalID: 8450532731468418997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5786cf7543c4c5d0800000000000000
+      internalID: -3043092744931735717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667e72a8a8b486210800000000000000
+      internalID: 1326393148656052070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90feda64eada67990800000000000000
+      internalID: -7388527174633001207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46761608ac4600770800000000000000
+      internalID: 8574964511413462884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99ad95267bfd56e0800000000000000
+      internalID: -1847043787296233059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0bde16abd5e2c40800000000000000
+      internalID: 5489428050899480738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86d0613c1bd0f740800000000000000
+      internalID: 5183884085237438092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4b5e1d71d503f60800000000000000
+      internalID: 8012006093979235520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edeeb170d0660800800000000000000
+      internalID: 578256050541489639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db0ec613145ad6f0800000000000000
+      internalID: -659121954492642344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da330f43bf4b10af0800000000000000
+      internalID: -431865098232908883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2eba7961a3b72a70800000000000000
+      internalID: 8802201502559682090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec402b2ac6a4f490800000000000000
+      internalID: -7713356874541675296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a8e345f8c9dd790800000000000000
+      internalID: -7503669264721737059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb3b81c51b66c2b0800000000000000
+      internalID: -5564642548384056371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_27
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2183bc833f6af080800000000000000
+      internalID: -9152881025482522325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_28
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 68
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09489ffbc0fecb860800000000000000
+      internalID: 7547169913605555344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755ac9e3eef2f8df0800000000000000
+      internalID: -175869160144984745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5473f864d236c92c0800000000000000
+      internalID: -4423551687876200635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476441c16485fca70800000000000000
+      internalID: 8849388850948359796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fad9a69b95f98f0800000000000000
+      internalID: -531607578113888474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a227d83e35f9270800000000000000
+      internalID: 8259412478416530060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b20cda789b563ce0800000000000000
+      internalID: -1425851521561787724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d111f2c1041fd20800000000000000
+      internalID: 3310497690886937944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_36
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206202e5ba6da1710800000000000000
+      internalID: 1664879043773736450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee5e65d968b9bb00800000000000000
+      internalID: 844909169800535783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bf44342a5d72ae0800000000000000
+      internalID: -1574054651852686511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_39
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51afecad6c5275c90800000000000000
+      internalID: -7181229544814216683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_40
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56dcda48e42c19c0800000000000000
+      internalID: -3955245792631138725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15667690ea8752300800000000000000
+      internalID: 226720045129492049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825f8e3e082752f50800000000000000
+      internalID: 6856011905646523688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3002b440f6e303b90800000000000000
+      internalID: -7264237552414285821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf597721d8a98de0800000000000000
+      internalID: -1330346598647373858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754c2e3c68bba8850800000000000000
+      internalID: 6380118009610159191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e417e4f4824cdbd60800000000000000
+      internalID: 7907692198140735822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_47
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e273da5b2dcc4c20800000000000000
+      internalID: 3192151821989933800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10283dd361b200050800000000000000
+      internalID: 5764654897560781313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b268e038dcfa82210800000000000000
+      internalID: 1308488988953052715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_50
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f399e278ee1ce20800000000000000
+      internalID: 3369236260619632469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_51
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864a1d799c204bff0800000000000000
+      internalID: -21389033371229080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_52
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 35
+        width: 89
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36fd9b11c357cab0800000000000000
+      internalID: -4987925973432404418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3b9116b2f4e5560800000000000000
+      internalID: 7304362693372785650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3f9fb63bb44bd90800000000000000
+      internalID: -7082953079964175400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2
+        width: 203
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cfdbac4566db080800000000000000
+      internalID: -9170060751891727238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_56
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93057508c968e220800000000000000
+      internalID: 2515376699692352414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QwertyLayout_57
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3bafbab194b0d00800000000000000
+      internalID: 939925330435159005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      QwertyLayout_0: -2716018973241644836
+      QwertyLayout_1: 8018127776077515649
+      QwertyLayout_10: -8544530982488984278
+      QwertyLayout_11: 8450532731468418997
+      QwertyLayout_12: -3043092744931735717
+      QwertyLayout_13: 1326393148656052070
+      QwertyLayout_14: -7388527174633001207
+      QwertyLayout_15: 8574964511413462884
+      QwertyLayout_16: -1847043787296233059
+      QwertyLayout_17: 5489428050899480738
+      QwertyLayout_18: 5183884085237438092
+      QwertyLayout_19: 8012006093979235520
+      QwertyLayout_2: -6040659646352142794
+      QwertyLayout_20: 578256050541489639
+      QwertyLayout_21: -659121954492642344
+      QwertyLayout_22: -431865098232908883
+      QwertyLayout_23: 8802201502559682090
+      QwertyLayout_24: -7713356874541675296
+      QwertyLayout_25: -7503669264721737059
+      QwertyLayout_26: -5564642548384056371
+      QwertyLayout_27: -9152881025482522325
+      QwertyLayout_28: 7547169913605555344
+      QwertyLayout_29: -175869160144984745
+      QwertyLayout_3: -8083321525365130397
+      QwertyLayout_30: -4423551687876200635
+      QwertyLayout_31: 8849388850948359796
+      QwertyLayout_32: -531607578113888474
+      QwertyLayout_33: 8259412478416530060
+      QwertyLayout_34: -1425851521561787724
+      QwertyLayout_35: 3310497690886937944
+      QwertyLayout_36: 1664879043773736450
+      QwertyLayout_37: 844909169800535783
+      QwertyLayout_38: -1574054651852686511
+      QwertyLayout_39: -7181229544814216683
+      QwertyLayout_4: -3881040333918173185
+      QwertyLayout_40: -3955245792631138725
+      QwertyLayout_41: 226720045129492049
+      QwertyLayout_42: 6856011905646523688
+      QwertyLayout_43: -7264237552414285821
+      QwertyLayout_44: -1330346598647373858
+      QwertyLayout_45: 6380118009610159191
+      QwertyLayout_46: 7907692198140735822
+      QwertyLayout_47: 3192151821989933800
+      QwertyLayout_48: 5764654897560781313
+      QwertyLayout_49: 1308488988953052715
+      QwertyLayout_5: 5554036582423803950
+      QwertyLayout_50: 3369236260619632469
+      QwertyLayout_51: -21389033371229080
+      QwertyLayout_52: -4987925973432404418
+      QwertyLayout_53: 7304362693372785650
+      QwertyLayout_54: -7082953079964175400
+      QwertyLayout_55: -9170060751891727238
+      QwertyLayout_56: 2515376699692352414
+      QwertyLayout_57: 939925330435159005
+      QwertyLayout_6: 7567224287616412218
+      QwertyLayout_7: 174732712352958858
+      QwertyLayout_8: -4073413256468739901
+      QwertyLayout_9: 391960549425381740
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

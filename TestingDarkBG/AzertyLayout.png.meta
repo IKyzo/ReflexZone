@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: 28da707839162ec4c80df3e6868cd743
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4682671829000108599
+    second: AzertyLayout_0
+  - first:
+      213: -6688388820924193972
+    second: AzertyLayout_1
+  - first:
+      213: 2115329358936291718
+    second: AzertyLayout_2
+  - first:
+      213: -815304776262050258
+    second: AzertyLayout_3
+  - first:
+      213: -9179412923702853071
+    second: AzertyLayout_4
+  - first:
+      213: -3505960663253268649
+    second: AzertyLayout_5
+  - first:
+      213: 6155380219092089833
+    second: AzertyLayout_6
+  - first:
+      213: -3171830751329656781
+    second: AzertyLayout_7
+  - first:
+      213: -5735221366728576758
+    second: AzertyLayout_8
+  - first:
+      213: -3913702715506180455
+    second: AzertyLayout_9
+  - first:
+      213: -6072911160912146337
+    second: AzertyLayout_10
+  - first:
+      213: 2282999718261107820
+    second: AzertyLayout_11
+  - first:
+      213: 2525339440908801113
+    second: AzertyLayout_12
+  - first:
+      213: -3055707603335662706
+    second: AzertyLayout_13
+  - first:
+      213: -3828565744647129552
+    second: AzertyLayout_14
+  - first:
+      213: 3857314104492604631
+    second: AzertyLayout_15
+  - first:
+      213: -2817087343556574437
+    second: AzertyLayout_16
+  - first:
+      213: 7006068793160207008
+    second: AzertyLayout_17
+  - first:
+      213: 2964093185786342760
+    second: AzertyLayout_18
+  - first:
+      213: -1746006011467688138
+    second: AzertyLayout_19
+  - first:
+      213: 5435330662012902727
+    second: AzertyLayout_20
+  - first:
+      213: 6301812814970444448
+    second: AzertyLayout_21
+  - first:
+      213: -4647933544792518507
+    second: AzertyLayout_22
+  - first:
+      213: 8990909168007455679
+    second: AzertyLayout_23
+  - first:
+      213: 5415751497442173386
+    second: AzertyLayout_24
+  - first:
+      213: -281263149899302582
+    second: AzertyLayout_25
+  - first:
+      213: 6520424362868329920
+    second: AzertyLayout_26
+  - first:
+      213: -7469257744644251235
+    second: AzertyLayout_27
+  - first:
+      213: 5072571627829684330
+    second: AzertyLayout_28
+  - first:
+      213: 3374782269456597595
+    second: AzertyLayout_29
+  - first:
+      213: -8980119033545465613
+    second: AzertyLayout_30
+  - first:
+      213: -3644631131819007438
+    second: AzertyLayout_31
+  - first:
+      213: 3031267809143890386
+    second: AzertyLayout_32
+  - first:
+      213: 5506484874118814347
+    second: AzertyLayout_33
+  - first:
+      213: -5019219531492253303
+    second: AzertyLayout_34
+  - first:
+      213: 5049667401420374843
+    second: AzertyLayout_35
+  - first:
+      213: 5019094488256267540
+    second: AzertyLayout_36
+  - first:
+      213: -8156080404430935019
+    second: AzertyLayout_37
+  - first:
+      213: -3324773027703405803
+    second: AzertyLayout_38
+  - first:
+      213: -8310716806577451131
+    second: AzertyLayout_39
+  - first:
+      213: -2216726775951139720
+    second: AzertyLayout_40
+  - first:
+      213: -712981796876130414
+    second: AzertyLayout_41
+  - first:
+      213: -3328372935307394195
+    second: AzertyLayout_42
+  - first:
+      213: -1889391366035551058
+    second: AzertyLayout_43
+  - first:
+      213: -424518822882851271
+    second: AzertyLayout_44
+  - first:
+      213: 536465193286279443
+    second: AzertyLayout_45
+  - first:
+      213: -3052497642845107903
+    second: AzertyLayout_46
+  - first:
+      213: -6644746439299834792
+    second: AzertyLayout_47
+  - first:
+      213: 8858305072942179154
+    second: AzertyLayout_48
+  - first:
+      213: 7003373449708387897
+    second: AzertyLayout_49
+  - first:
+      213: 7521192439577581638
+    second: AzertyLayout_50
+  - first:
+      213: 7116596909527969245
+    second: AzertyLayout_51
+  - first:
+      213: 328826909074973696
+    second: AzertyLayout_52
+  - first:
+      213: 9129800285445062291
+    second: AzertyLayout_53
+  - first:
+      213: 135696631119303617
+    second: AzertyLayout_54
+  - first:
+      213: 5140144186703972886
+    second: AzertyLayout_55
+  - first:
+      213: 7714127522608325604
+    second: AzertyLayout_56
+  - first:
+      213: -131977991175325607
+    second: AzertyLayout_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AzertyLayout_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c548b808cec30fb0800000000000000
+      internalID: -4682671829000108599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43ae11ddc11e23a0800000000000000
+      internalID: -6688388820924193972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6893a5e28d82b5d10800000000000000
+      internalID: 2115329358936291718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e983b20a47fa4f0800000000000000
+      internalID: -815304776262050258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132cf0c949c2c9080800000000000000
+      internalID: -9179412923702853071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757cb462a53585fc0800000000000000
+      internalID: -3505960663253268649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb337852bd4c6550800000000000000
+      internalID: 6155380219092089833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330e55b9cb46bf3d0800000000000000
+      internalID: -3171830751329656781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01b9efad866860b0800000000000000
+      internalID: -5735221366728576758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99eb5cdad1cbfa9c0800000000000000
+      internalID: -3913702715506180455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50935d897fa8bba0800000000000000
+      internalID: -6072911160912146337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c254dd528deaf10800000000000000
+      internalID: 2282999718261107820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95417a877decb0320800000000000000
+      internalID: 2525339440908801113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83b7b5ef12f795d0800000000000000
+      internalID: -3055707603335662706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 134
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03634176db33edac0800000000000000
+      internalID: -3828565744647129552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcb269bdbee78530800000000000000
+      internalID: 3857314104492604631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13cf029cf1b7e8d0800000000000000
+      internalID: -2817087343556574437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa8348927e8a3160800000000000000
+      internalID: 7006068793160207008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d63fb4c03922920800000000000000
+      internalID: 2964093185786342760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63795c688c0f4c7e0800000000000000
+      internalID: -1746006011467688138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d5112807c2e6b40800000000000000
+      internalID: 5435330662012902727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa5155ed59847750800000000000000
+      internalID: 6301812814970444448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590150b11193f7fb0800000000000000
+      internalID: -4647933544792518507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb323ee904026cc70800000000000000
+      internalID: 8990909168007455679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1a4d40b4d982b40800000000000000
+      internalID: 5415751497442173386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4938d5c7a0c81cf0800000000000000
+      internalID: -281263149899302582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdc19d49633d7a50800000000000000
+      internalID: 6520424362868329920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_27
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91e4a2b7add75890800000000000000
+      internalID: -7469257744644251235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_28
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 68
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6863861505656640800000000000000
+      internalID: 5072571627829684330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b524f3df792a5de20800000000000000
+      internalID: 3374782269456597595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f06cc45155306380800000000000000
+      internalID: -8980119033545465613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2322992bb4bab6dc0800000000000000
+      internalID: -3644631131819007438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d12917130a311a20800000000000000
+      internalID: 3031267809143890386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ad9e281d6fa6c40800000000000000
+      internalID: 5506484874118814347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981a3b7dd66285ab0800000000000000
+      internalID: -5019219531492253303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33088f4fb5041640800000000000000
+      internalID: 5049667401420374843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_36
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415c2a248d767a540800000000000000
+      internalID: 5019094488256267540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cae5eb518cfce80800000000000000
+      internalID: -8156080404430935019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51340f4fb880cd1d0800000000000000
+      internalID: -3324773027703405803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_39
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f0513b8176aac80800000000000000
+      internalID: -8310716806577451131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_40
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cd553fdba9c31e0800000000000000
+      internalID: -2216726775951139720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297e0e155dafa16f0800000000000000
+      internalID: -712981796876130414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d638af6237e3fc1d0800000000000000
+      internalID: -3328372935307394195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacc2c1209887c5e0800000000000000
+      internalID: -1889391366035551058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936c999316ecb1af0800000000000000
+      internalID: -424518822882851271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311a0304048e17700800000000000000
+      internalID: 536465193286279443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1490080119953a5d0800000000000000
+      internalID: -3052497642845107903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_47
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cddfe915e19c3a0800000000000000
+      internalID: -6644746439299834792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25362c0d7850fea70800000000000000
+      internalID: 8858305072942179154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e354b0c0bf03160800000000000000
+      internalID: 7003373449708387897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_50
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6481060cca4a06860800000000000000
+      internalID: 7521192439577581638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_51
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 35
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddae021f2b33c260800000000000000
+      internalID: 7116596909527969245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_52
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 35
+        width: 89
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004e004e45a309400800000000000000
+      internalID: 328826909074973696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e7634ecf093be70800000000000000
+      internalID: 9129800285445062291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c35517fd5712e100800000000000000
+      internalID: 135696631119303617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2
+        width: 203
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a87c677e5755740800000000000000
+      internalID: 5140144186703972886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_56
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e322215c161e0b60800000000000000
+      internalID: 7714127522608325604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzertyLayout_57
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95833dd57be1b2ef0800000000000000
+      internalID: -131977991175325607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AzertyLayout_0: -4682671829000108599
+      AzertyLayout_1: -6688388820924193972
+      AzertyLayout_10: -6072911160912146337
+      AzertyLayout_11: 2282999718261107820
+      AzertyLayout_12: 2525339440908801113
+      AzertyLayout_13: -3055707603335662706
+      AzertyLayout_14: -3828565744647129552
+      AzertyLayout_15: 3857314104492604631
+      AzertyLayout_16: -2817087343556574437
+      AzertyLayout_17: 7006068793160207008
+      AzertyLayout_18: 2964093185786342760
+      AzertyLayout_19: -1746006011467688138
+      AzertyLayout_2: 2115329358936291718
+      AzertyLayout_20: 5435330662012902727
+      AzertyLayout_21: 6301812814970444448
+      AzertyLayout_22: -4647933544792518507
+      AzertyLayout_23: 8990909168007455679
+      AzertyLayout_24: 5415751497442173386
+      AzertyLayout_25: -281263149899302582
+      AzertyLayout_26: 6520424362868329920
+      AzertyLayout_27: -7469257744644251235
+      AzertyLayout_28: 5072571627829684330
+      AzertyLayout_29: 3374782269456597595
+      AzertyLayout_3: -815304776262050258
+      AzertyLayout_30: -8980119033545465613
+      AzertyLayout_31: -3644631131819007438
+      AzertyLayout_32: 3031267809143890386
+      AzertyLayout_33: 5506484874118814347
+      AzertyLayout_34: -5019219531492253303
+      AzertyLayout_35: 5049667401420374843
+      AzertyLayout_36: 5019094488256267540
+      AzertyLayout_37: -8156080404430935019
+      AzertyLayout_38: -3324773027703405803
+      AzertyLayout_39: -8310716806577451131
+      AzertyLayout_4: -9179412923702853071
+      AzertyLayout_40: -2216726775951139720
+      AzertyLayout_41: -712981796876130414
+      AzertyLayout_42: -3328372935307394195
+      AzertyLayout_43: -1889391366035551058
+      AzertyLayout_44: -424518822882851271
+      AzertyLayout_45: 536465193286279443
+      AzertyLayout_46: -3052497642845107903
+      AzertyLayout_47: -6644746439299834792
+      AzertyLayout_48: 8858305072942179154
+      AzertyLayout_49: 7003373449708387897
+      AzertyLayout_5: -3505960663253268649
+      AzertyLayout_50: 7521192439577581638
+      AzertyLayout_51: 7116596909527969245
+      AzertyLayout_52: 328826909074973696
+      AzertyLayout_53: 9129800285445062291
+      AzertyLayout_54: 135696631119303617
+      AzertyLayout_55: 5140144186703972886
+      AzertyLayout_56: 7714127522608325604
+      AzertyLayout_57: -131977991175325607
+      AzertyLayout_6: 6155380219092089833
+      AzertyLayout_7: -3171830751329656781
+      AzertyLayout_8: -5735221366728576758
+      AzertyLayout_9: -3913702715506180455
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
