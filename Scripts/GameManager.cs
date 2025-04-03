@@ -58,6 +58,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private Animator scoreAnimator;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     
+    [SerializeField] private bool DisableIntro = false;
     void Awake()
     {
 #if UNITY_EDITOR
@@ -68,12 +69,14 @@ public class GameManager : MonoBehaviour
     }
 
     
-    
-    void Start()
+
+    public void InitGame()
     {
         StartCoroutine(Intro());
         playerSystem.inputState = false;
     }
+    
+
 
     private IEnumerator Intro()
     {
