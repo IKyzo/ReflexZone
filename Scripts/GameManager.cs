@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using NUnit.Framework;
+using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -11,6 +12,7 @@ public class GameManager : MonoBehaviour
 
     [SerializeField] private GameObject mainCamera;
 
+    [SerializeField] private LeaderboardManager leaderboardManager;
     [SerializeField]
     private Vector3 logoPosition;
     
@@ -59,6 +61,15 @@ public class GameManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     
     [SerializeField] private bool DisableIntro = false;
+
+
+    // PLAYER STATE 
+    public bool isGuest;
+
+    public TextMeshProUGUI playerName;
+
+    public GameObject guestIndicator; // Array of panels for authentication
+
     void Awake()
     {
 #if UNITY_EDITOR
@@ -74,6 +85,7 @@ public class GameManager : MonoBehaviour
     {
         StartCoroutine(Intro());
         playerSystem.inputState = false;
+        leaderboardManager.HideLeaderboard();
     }
     
 

@@ -6,6 +6,9 @@ using UnityEngine.UI;
 public class PlayerSystem : MonoBehaviour
 {
     // Input Keys : Q S D F J K L M
+    [SerializeField] private LeaderboardManager leaderboardManager;
+
+    [SerializeField] private FirebaseManager firebaseManager;
     public Animator animator;
     [SerializeField] private Image playerHealthBar;
     public float playerHealth = 100f;
@@ -60,6 +63,17 @@ public class PlayerSystem : MonoBehaviour
     [SerializeField] private Animator postureAnimator;
     
     [SerializeField] private float pitchRange = 0.1f;
+
+    [SerializeField] private TextMeshProUGUI playerNameText;
+    [SerializeField] private TextMeshProUGUI playerScoreText;
+    private string playerName; // Default player name
+    private int playerScore; // Default player score
+
+    [SerializeField] private TextMeshProUGUI multiplierText;
+
+    [SerializeField] private int deflectionScoreValue = 5; // Score value for a successful deflection
+
+    private int scoreMultiplier = 0;
     void Start()
     {
         //spriteRenderer = GetComponent<SpriteRenderer>();
@@ -92,6 +106,7 @@ public class PlayerSystem : MonoBehaviour
         playerHealthBar.fillAmount = playerHealth / 100f;
         hitSound.Play();
         animator.SetTrigger("Hit");
+        ApplyMultiplierAndReset();
         if (playerHealth <= 0)
         {
             playerState = false;
@@ -106,8 +121,31 @@ public class PlayerSystem : MonoBehaviour
             postureAnimator.SetTrigger("BringDown");
             StartCoroutine(Restart());
 
+            if(!gameManager.isGuest){
+                StartCoroutine(SendPlayerScores());
+            }
+            
+    
+
         }
     }
+    private IEnumerator SendPlayerScores() {
+        playerName = RemoveTrailingCharacter(playerNameText.text);
+        playerScore = int.Parse(playerScoreText.text);
+        yield return StartCoroutine(firebaseManager.PostScoreCoroutine(playerName, playerScore)); // Ensure this waits for Firebase to complete
+        leaderboardManager.ShowLeaderboard(); 
+    }
+    private string RemoveTrailingCharacter(string playerName)
+{
+    // Check if the player name ends with "▌"
+    if (playerName.EndsWith("▌"))
+    {
+        // Remove the "▌" character from the end of the string
+        playerName = playerName.Substring(0, playerName.Length - 1);
+    }
+
+    return playerName;
+}
 
    private void HandleDeflection(KeyCode key)
 {
@@ -126,8 +164,15 @@ public class PlayerSystem : MonoBehaviour
             var weaponSpeed = Mathf.RoundToInt(weapon.speed / 2);
             isDeflectSuccessful = true;
             // Update score and animate the transition
+            // *** Change here 
             int newScore = score + weaponSpeed;
             StartCoroutine(AnimateScoreChange(newScore));
+
+            //currentStreakScore += deflectionScoreValue;
+            scoreMultiplier++;
+            UpdateMultiplierText();
+
+
 
             // Set particle position based on direction
             if (System.Array.Exists(RightKeys, k => k == key))
@@ -146,6 +191,9 @@ public class PlayerSystem : MonoBehaviour
         
             postureSystem.UpdatePostureBar();
             postureSystem.AdjustPosture(isDeflectSuccessful);
+            if(!isDeflectSuccessful){
+                ApplyMultiplierAndReset();
+            }
             return;
         }
     }
@@ -209,6 +257,7 @@ private IEnumerator AnimateScoreChange(int targetScore)
         deathAnimator.SetTrigger("DeathReset");
         StartCoroutine(AnimateScoreChange(0));
         StartCoroutine(ResetPlayer());
+        leaderboardManager.HideLeaderboard();
 
 
     }
@@ -244,6 +293,27 @@ private IEnumerator AnimateScoreChange(int targetScore)
         weaponsSystem.StartSpawning();
 
     }
+    private void ApplyMultiplierAndReset()
+    {
+    if (scoreMultiplier > 1)
+    {
+        int bonusScore = deflectionScoreValue * scoreMultiplier;
+        int newScore = score + bonusScore;
+        StartCoroutine(AnimateScoreChange(newScore));
+    }
+
+    //currentStreakScore = 0;
+    scoreMultiplier = 0;
+    UpdateMultiplierText();
+    }
+    private void UpdateMultiplierText()
+    {
+    multiplierText.text =scoreMultiplier.ToString();
+    }
+
+
+
+
     private void OnDrawGizmos()
     {
         // Visualize detection radius in the Scene view

@@ -7,5 +7,6 @@ public class KeyboardLayoutDetector : MonoBehaviour
     {
         //string layout = GetKeyboardLayout();
         Debug.Log("System current Lang : " + Application.systemLanguage.ToString());
+        
     }
 }

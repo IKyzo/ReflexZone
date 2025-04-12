@@ -5,6 +5,7 @@ using System.Collections;
 public class WeaponsSystem : MonoBehaviour
 {
     [Header("Weapon Setup")]
+    public KeyboardLayoutWeapons currentLayout;
     public GameObject[] rightWeapons;             // Array of weapon prefabs for the right
     public GameObject[] leftWeapons;              // Array of weapon prefabs for the left
     public Transform[] rightSpawnPoints;          // Array of spawn points on the right
@@ -19,6 +20,26 @@ public class WeaponsSystem : MonoBehaviour
     [SerializeField] private float minSpawnInterval;
     [SerializeField] private float maxSpawnInterval;
 
+
+
+    public void SetKeyboardLayout(KeyboardLayoutWeapons newLayout) 
+    {
+        currentLayout = newLayout;
+        LoadWeapons(); // Load the weapons from the new layout
+    }
+
+    public void LoadWeapons() 
+    {
+        if(currentLayout != null)
+        {
+            rightWeapons = currentLayout.rightWeapons;
+            leftWeapons = currentLayout.leftWeapons;
+        }
+        else
+        {
+            Debug.LogError("No KeyboardLayoutWeapons assigned!");
+        }
+    }
     void Start()
     {
         // Start the spawning coroutine

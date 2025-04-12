@@ -16,8 +16,11 @@ public class TerminalInput : MonoBehaviour
     [SerializeField] private GameObject correctCheck;
     [SerializeField] private GameObject wrongCheck;
     
-    private readonly int maxCharacters = 15; // Maximum allowed characters
-    private readonly Regex validInputRegex = new Regex("^[a-zA-Z]+$"); // Only letters allowed
+    private readonly int maxCharacters = 21; // Maximum allowed characters
+    
+    // Allow letters, numbers, and these characters: @ . _ -
+    private readonly Regex validCharRegex = new Regex("^[a-zA-Z0-9@._-]$");
+    private readonly Regex fullValidationRegex = new Regex("^[a-zA-Z0-9@._-]+$");
 
 
     void Start()
@@ -47,7 +50,7 @@ public class TerminalInput : MonoBehaviour
             {
                 textContent = textContent.Substring(0, textContent.Length - 1);
             }
-            else if (validInputRegex.IsMatch(c.ToString()) && textContent.Length < maxCharacters)
+            else if (validCharRegex.IsMatch(c.ToString()) && textContent.Length < maxCharacters)
             {
                 textContent += c;
             }
@@ -57,11 +60,15 @@ public class TerminalInput : MonoBehaviour
 
     void ValidateInput()
     {
-        if (textContent.Length >= 1 && textContent.Length <= maxCharacters && validInputRegex.IsMatch(textContent))
+        if (textContent.Length >= 1 && textContent.Length <= maxCharacters && fullValidationRegex.IsMatch(textContent))
         {
+            allowTyping = false; // Disable typing after validation
             correctCheck.SetActive(true);
             wrongCheck.SetActive(false);
             allowTyping = false; // Disable typing after validation
+            gameManager.isGuest = true;
+            gameManager.guestIndicator.SetActive(true); // Show guest indicator
+            gameManager.playerName.text = textContent; // Set the player name in the GameManager
             gameManager.InitGame();
 
         }

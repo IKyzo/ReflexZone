@@ -13,17 +13,30 @@ public class KeyboardLayout : MonoBehaviour
     [SerializeField] private GameObject[] themeItems; // Array of theme items
     [SerializeField] private GameObject[] layoutLabels;
     [SerializeField] private GameObject[] layoutKeyboardDisplay;
+    [SerializeField] private GameObject[] authPanels;
+    [SerializeField] private GameObject[] authPanelsTabs;
+    [SerializeField] private Transform leftSpot, centerSpot, rightSpot; // Positions for the keyboard layout display
 
     [SerializeField] private int currentIndex = 0;
     [SerializeField] private int themeIndex = 0; // 0 = Dark, 1 = Light
+
+    
+    private int authPanelIndex = 0; // 0 = Leaderboard, 1 = Login, 2 = Register
+    private int authDirection = 1;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     [SerializeField] private TerminalInput terminalInput;
+
+
+    
     void Start()
     {
         UpdateLayout();
         UpdateTheme();
 
         settingsPanels[0].SetActive(true); // Show the first panel by default
+        // Optional safety check
+        for (int i = 0; i < authPanels.Length; i++)
+            authPanels[i].SetActive(i == authPanelIndex);
     }
 
 
@@ -101,6 +114,11 @@ public class KeyboardLayout : MonoBehaviour
             currentIndex = (currentIndex - 1 + layoutLabels.Length) % layoutLabels.Length;
             UpdateLayout();
         }
+        if(settingsPanels[2].activeSelf){
+            // change auth panels 
+            authDirection = -1; // Set the direction to left
+            switchAuthPanels();
+        }
         
     }
     public void RightSelect()
@@ -113,6 +131,42 @@ public class KeyboardLayout : MonoBehaviour
             currentIndex = (currentIndex + 1) % layoutLabels.Length;
             UpdateLayout();
         }
+        if(settingsPanels[2].activeSelf){
+            authDirection = 1; // Set the direction to right
+            switchAuthPanels();
+        }
+    }
+
+    void UpdateAuthTitles()
+{
+    int leftIndex = (authPanelIndex - 1 + authPanelsTabs.Length) % authPanelsTabs.Length;
+    int rightIndex = (authPanelIndex + 1) % authPanelsTabs.Length;
+
+    // Move titles to their respective spots
+    authPanelsTabs[leftIndex].transform.SetParent(leftSpot);
+    authPanelsTabs[leftIndex].transform.localPosition = Vector3.zero;
+
+    authPanelsTabs[authPanelIndex].transform.SetParent(centerSpot);
+    authPanelsTabs[authPanelIndex].transform.localPosition = Vector3.zero;
+
+    authPanelsTabs[rightIndex].transform.SetParent(rightSpot);
+    authPanelsTabs[rightIndex].transform.localPosition = Vector3.zero;
+
+    // Optionally disable interaction or highlight center title
+    for (int i = 0; i < authPanelsTabs.Length; i++)
+    {
+        authPanelsTabs[i].SetActive(i == leftIndex || i == authPanelIndex || i == rightIndex);
+    }
+}
+
+    void switchAuthPanels() 
+    {
+        authPanels[authPanelIndex].SetActive(false); // Hide the current panel
+        authPanelIndex = (authPanelIndex + authDirection + authPanels.Length) % authPanels.Length;
+        authPanels[authPanelIndex].SetActive(true); // Show the next panel
+
+        // Update title display
+        UpdateAuthTitles();
     }
 
     void UpdateLayout()
