@@ -127,6 +127,7 @@ public class PostureSystem : MonoBehaviour
         postureBarR.fillAmount = normalizedPosture;
     }
 
+    // Rework the time control.
     private IEnumerator ResetPosture()
     {
         postureBarL.fillAmount = 1f;

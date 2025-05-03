@@ -70,6 +70,8 @@ public class GameManager : MonoBehaviour
 
     public GameObject guestIndicator; // Array of panels for authentication
 
+    [SerializeField] private Animator multiplierAnimator;
+
     void Awake()
     {
 #if UNITY_EDITOR
@@ -351,6 +353,9 @@ public class GameManager : MonoBehaviour
         yield return new WaitForSeconds(2f);
         
         scoreAnimator.SetTrigger("Score");
+        multiplierAnimator.SetTrigger("multiply");
+        
+
         weapons.SetActive(true);  
         
 

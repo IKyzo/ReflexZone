@@ -74,6 +74,8 @@ public class PlayerSystem : MonoBehaviour
     [SerializeField] private int deflectionScoreValue = 5; // Score value for a successful deflection
 
     private int scoreMultiplier = 0;
+
+    [SerializeField] private Animator multiplierAnimator;
     void Start()
     {
         //spriteRenderer = GetComponent<SpriteRenderer>();
@@ -106,7 +108,7 @@ public class PlayerSystem : MonoBehaviour
         playerHealthBar.fillAmount = playerHealth / 100f;
         hitSound.Play();
         animator.SetTrigger("Hit");
-        ApplyMultiplierAndReset();
+        StartCoroutine(ApplyMultiplierAndReset());
         if (playerHealth <= 0)
         {
             playerState = false;
@@ -166,11 +168,15 @@ public class PlayerSystem : MonoBehaviour
             // Update score and animate the transition
             // *** Change here 
             int newScore = score + weaponSpeed;
-            StartCoroutine(AnimateScoreChange(newScore));
 
             //currentStreakScore += deflectionScoreValue;
             scoreMultiplier++;
+            multiplierAnimator.SetTrigger("multiply");
             UpdateMultiplierText();
+
+            StartCoroutine(AnimateScoreChange(newScore));
+
+            
 
 
 
@@ -192,15 +198,20 @@ public class PlayerSystem : MonoBehaviour
             postureSystem.UpdatePostureBar();
             postureSystem.AdjustPosture(isDeflectSuccessful);
             if(!isDeflectSuccessful){
-                ApplyMultiplierAndReset();
+                multiplierAnimator.SetTrigger("failed");
+                StartCoroutine(ApplyMultiplierAndReset());
             }
             return;
         }
     }
+    
     postureSystem.AdjustPosture(isDeflectSuccessful);
     // If no matching weapon found
     //Debug.Log($"Missed! Pressed {key} but no weapon to deflect.");
     postureSystem.UpdatePostureBar();
+    multiplierAnimator.SetTrigger("failed");
+    StartCoroutine(ApplyMultiplierAndReset());
+    
 }
 
 private IEnumerator AnimateScoreChange(int targetScore)
@@ -293,7 +304,7 @@ private IEnumerator AnimateScoreChange(int targetScore)
         weaponsSystem.StartSpawning();
 
     }
-    private void ApplyMultiplierAndReset()
+    private IEnumerator ApplyMultiplierAndReset()
     {
     if (scoreMultiplier > 1)
     {
@@ -301,10 +312,12 @@ private IEnumerator AnimateScoreChange(int targetScore)
         int newScore = score + bonusScore;
         StartCoroutine(AnimateScoreChange(newScore));
     }
-
+    
     //currentStreakScore = 0;
     scoreMultiplier = 0;
+    yield return new WaitForSeconds(0.5f); // Wait for the animation to finish
     UpdateMultiplierText();
+    yield return null;
     }
     private void UpdateMultiplierText()
     {
